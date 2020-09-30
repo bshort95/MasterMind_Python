@@ -22,9 +22,11 @@ The goal of this game is to guess the correct code.
 The game will start with the computer generating a random 4 letter code each letter representing a color.   
 And then you will have a finite number of turns (the number depending on the difficulty you choose) to guess the correct combination.   
 After you enter an answer the computer will tell you  
+
 * how many of your answers were the correct color and in the correct position   
 * how many of your answers were the correct color but not in the correct position  
-*how many of your answers were completely incorrect  
+* how many of your answers were completely incorrect  
+
 With that knowledge you will be able to adjust your guess and try again  
 The game ends when you run out of turns. Or you guess the right combination  
 the colors you have at your disposal are b=blue r=red y=yellow g=green w=white  
@@ -81,7 +83,8 @@ when you guess you will be provided hints
 
 the games sends you back to main menu if you win
 or run out of turns
-![winning example](https://github.com/bshort95/MasterMind_Python/blob/master/Capture6.JPG?raw=true)
+![winning example](https://github.com/bshort95/MasterMind_Python/blob/master/Capture6.JPG?raw=true)  
+
 giving you the option to play again.
 
 
