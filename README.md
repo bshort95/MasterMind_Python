@@ -18,23 +18,23 @@ the principles i learned while coding are
 
 ## how to play the game
 <p>
-The goal of this game is to guess the correct code. 
-The game will start with the computer generating a random 4 letter code each letter representing a color. 
-And then you will have a finite number of turns (the number depending on the difficulty you choose) to guess the correct combination. 
-After you enter an answer the computer will tell you
-* how many of your answers were the correct color and in the correct position 
-* how many of your answers were the correct color but not in the correct position
-*how many of your answers were completely incorrect
-With that knowledge you will be able to adjust your guess and try again
-The game ends when you run out of turns. Or you guess the right combination
-the colors you have at your disposal are b=blue r=red y=yellow g=green w=white
-as a note the computer is not programmed to generate a unique set of letters. So often-times a
+The goal of this game is to guess the correct code.   
+The game will start with the computer generating a random 4 letter code each letter representing a color.   
+And then you will have a finite number of turns (the number depending on the difficulty you choose) to guess the correct combination.   
+After you enter an answer the computer will tell you  
+* how many of your answers were the correct color and in the correct position   
+* how many of your answers were the correct color but not in the correct position  
+*how many of your answers were completely incorrect  
+With that knowledge you will be able to adjust your guess and try again  
+The game ends when you run out of turns. Or you guess the right combination  
+the colors you have at your disposal are b=blue r=red y=yellow g=green w=white  
+as a note the computer is not programmed to generate a unique set of letters. So often-times a  
 color may appear more then once in the answer.  
 </p>
 
 ## program creation
 
-i used the python extention is vs code
+i used the python extention in vs code
 
 this program contains one class and 6 functions
 
@@ -94,7 +94,7 @@ the correct color but not in the correct spot.
 [Git](https://git-scm.com/)  
 [visual studios code](https://code.visualstudio.com/)  
 [Python](https://www.python.org/)  
-[Python tutorials](https://www.w3schools.com/python)
+[Python tutorials](https://www.w3schools.com/python)  
 [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows)
 
 
